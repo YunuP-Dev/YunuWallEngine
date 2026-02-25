@@ -1,0 +1,15 @@
+YunuWallEngine License
+Copyright (c) 2026 YunuP-Dev
+
+Permission is granted to use this software for personal and non-commercial purposes.
+
+You are allowed to:
+- Use this software freely.
+- Share and redistribute the original, unmodified version of this software.
+
+You are NOT allowed to:
+- Modify, alter, or reverse engineer this software.
+- Sell or use this software for commercial purposes.
+- Claim this software as your own.
+
+All rights reserved by YunuP-Dev.
