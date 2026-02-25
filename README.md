@@ -29,10 +29,10 @@ Recommended:
 - RAM: 4GB
 
 ## How to use
-  1.Download the file yunuwallenggine.rar
-  2.extract using any software, it can be 7z or winrar
-  3.run the exe and select the wallpaper 
-  4.You can set the features according to your needs 
+1.Download the file yunuwallenggine.rar in release
+2.extract using any software, it can be 7z or winrar
+3.run the exe and select the wallpaper 
+4.You can set the features according to your needs 
 
 ##Author
 
