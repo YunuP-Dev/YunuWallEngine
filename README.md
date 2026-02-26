@@ -39,3 +39,5 @@ Recommended:
 ##Author
 
 >> YunuP-Dev
+
+*Keywords: video wallpaper for 2gb ram, lightweight wallpaper engine, pc kentang wallpaper, yunu wall engine, mpv wallpaper, low spec video wallpaper.*
