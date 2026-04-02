@@ -28,17 +28,17 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 🆚 How YunuWallEngine Compares
 
-| Feature | YunuWallEngine | Wallpaper Engine | Windows 11 Slideshow |
+| Feature | YunuWallEngine |
 |---------|---|---|---|
-| **File Size** | ~20MB | 100MB+ | Built-in |
-| **RAM Usage** | 30-50MB | 150-300MB | Minimal |
-| **CPU Usage** | 2-5% | 10-15% | <1% |
-| **GPU Usage** | Adaptive | High | Minimal |
-| **System Requirement** | 2GB RAM minimum | 4GB+ RAM | Any |
-| **Portable (No Install)** | ✅ Yes | ❌ No | ✅ Built-in |
-| **Video Support** | MP4, AVI, WebM | Multiple | Limited |
-| **Customization** | Good | Excellent | Poor |
-| **Price** | 🆓 Free | $4.99 | Free |
+| **File Size** | ~20MB |
+| **RAM Usage** | 30-50MB |
+| **CPU Usage** | 2-5% |
+| **GPU Usage** | Adaptive |
+| **System Requirement** | 2GB RAM minimum |
+| **Portable (No Install)** | ✅ Yes |
+| **Video Support** | MP4, AVI, WebM |
+| **Customization** | Good |
+| **Price** | 🆓 Free |
 
 **Bottom Line:** YunuWallEngine is for users with older PCs who want animated wallpapers **without the performance cost**.
 
