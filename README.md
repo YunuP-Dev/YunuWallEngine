@@ -26,7 +26,7 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ---
 
-## 🆚 How YunuWallEngine Compares
+## 🆚 YunuWallEngine Overview
 
 | Feature | YunuWallEngine |
 |---------|---|
