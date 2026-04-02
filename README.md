@@ -28,10 +28,10 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 🆚 How YunuWallEngine Compares
 
-| Feature | YunuWallEngine |
+| Feature | YunuWallEngine | Wallpaper Engine | Windows 11 Slideshow |
 |---------|---|---|---|
-| **File Size** | ~20MB |
-| **RAM Usage** | 30-50MB |
+| **File Size** | ~20MB | 100MB+ | Built-in |
+| **RAM Usage** | 30-50MB | 150-300MB | Minimal |
 | **CPU Usage** | 2-5% | 10-15% | <1% |
 | **GPU Usage** | Adaptive | High | Minimal |
 | **System Requirement** | 2GB RAM minimum | 4GB+ RAM | Any |
