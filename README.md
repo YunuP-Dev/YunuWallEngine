@@ -28,6 +28,8 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 🆚 YunuWallEngine Overview
 
+<img width="572" height="388" alt="image" src="https://github.com/user-attachments/assets/b2c8bd4b-cbba-4d1e-aeb8-af0041e73b80" />
+
 | Feature | YunuWallEngine |
 |---------|---|
 | File Size | ~70MB |
