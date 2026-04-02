@@ -108,7 +108,6 @@ Testing on **Intel i3 6100U + 4GB RAM:**
 |------|-----|-----|------|
 | YunuWallEngine | 45MB | 3% | 45°C |
 | Wallpaper Engine | 180MB | 12% | 55°C |
-| Stock Windows | 20MB | 0% | 42°C |
 
 *YunuWallEngine is 4x lighter than Wallpaper Engine!*
 
