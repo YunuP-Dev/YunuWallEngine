@@ -132,7 +132,7 @@ Testing on **Intel i3 6100U + 4GB RAM:**
 ## 💬 Community & Support
 
 - **Report a Bug:** Open an [Issue](https://github.com/YunuP-Dev/YunuWallEngine/issues)
-- **Ask Questions:** Use [Discussions](https://github.com/YunuP-Dev/YunuWallEngine/discussions)
+- **Ask Questions:** Use [Discussions](https://github.com/YunuP-Dev/YunuWallEngine/discussions/1)
 - **Share Wallpapers:** Check out community shared wallpapers in Discussions!
 
 ---
