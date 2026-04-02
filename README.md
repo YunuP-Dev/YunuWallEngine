@@ -30,7 +30,7 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 | Feature | YunuWallEngine |
 |---------|---|
-| File Size | ~20MB |
+| File Size | ~70MB |
 | RAM Usage | 30-50MB |
 | CPU Usage | 2-5% |
 | GPU Usage | Adaptive |
