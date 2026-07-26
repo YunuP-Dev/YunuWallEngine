@@ -2,6 +2,8 @@
 
 <img width="1359" height="767" alt="image" src="https://github.com/user-attachments/assets/6da1c973-2e22-4f1b-accc-7f2162442ac5" />
 
+<img width="1366" height="768" alt="gambar" src="https://github.com/user-attachments/assets/5dd57f0c-f5e8-419d-8d1d-bd70e13c2bd0" />
+
 ## What is YunuWallEngine?
 
 A **ultra-lightweight video wallpaper engine** optimized for low-spec computers (2GB RAM). Run smooth animated wallpapers without lag, stuttering, or excessive CPU/GPU usage—even on decade-old laptops.
@@ -14,6 +16,24 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ---
 
+## 🔥 What's New in Latest Release
+
+### 🪟 Windows Build
+* ⚙️ **Status:** No new updates *(Stable Initial Release V1.0)*
+
+---
+
+### 🐧 Linux Build *(OFFICIAL RELEASE V1.1.0 🎉)*
+* 🎯 **Smart Auto-Scale Monitor:** Automatically stretches 1:1 square videos and seamlessly crops/fits 20:9 or 21:9 ultra-wide wallpapers to match 16:9 displays.
+* 🛠️ **Crucial Bug Fixes:** Resolved X11 aspect ratio lock issues, improved watchdog loop, and fixed binary thread execution.
+* 🪶 **Ultra-Lightweight Footprint:** Engine binaries optimized to the absolute smallest footprint possible with minimal RAM and CPU overhead.
+* 📊 **Real-time Progress Indicator:** Smooth compression progress bar integration powered by YAD.
+
+> 🛠️ **Note for Linux Users:**  
+> The Linux build is currently under active development and continuous optimization. We are actively refining the core scripts to deliver the best performance possible for low-spec hardware. Stay tuned for further updates!
+
+---
+    
 ## ✨ Key Features
 
 <img width="572" height="388" alt="image" src="https://github.com/user-attachments/assets/b2c8bd4b-cbba-4d1e-aeb8-af0041e73b80" />
@@ -65,11 +85,21 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 🚀 Quick Start
 
-### Download & Setup (2 minutes)
+### 🖥️ Windows Installation 
 1. Download `YunuWallEngine_V1.0.rar` from [**Releases**](https://github.com/YunuP-Dev/YunuWallEngine/releases)
 2. Extract using **WinRAR**, **7-Zip**, or Windows built-in extractor
 3. Open the extracted folder and run `YunuWallEngine.exe`
-4. Select your video wallpaper and click "Apply"
+4. Select your video wallpaper (.mp4) and click **Apply**
+
+### 🐧 Linux Installation 
+1. Download `YunuWallEngine_Linux_V1.0.zip` from [**Releases**](https://github.com/YunuP-Dev/YunuWallEngine/releases)
+2. Extract the archive inside your File Manager (Thunar, Nemo, or Nautilus)
+3. Open the extracted folder, right-click on the `YunuWallEngine` file (the executable binary), and select **Execute** or **Run**
+4. Select your video wallpaper (.mp4) and click **Apply**
+
+> 💡 **Tip for First-Time Users:**  
+> If the "Execute" option doesn't appear on your first launch, open a terminal in that folder once and type: `chmod +x YunuWallEngine` to grant executable permission. After that, you can close the terminal and just double-click the file forever!
+
 
 ### Supported Video Formats
 - `.mp4` (Recommended)
@@ -106,7 +136,7 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 📊 Performance Comparison (Real-world Test)
 
-Testing on **Intel i3 6100U + 4GB RAM:**
+Testing on **Intel i3 2330m + 4GB RAM:**
 
 | Tool | RAM | CPU | Temp |
 |------|-----|-----|------|
@@ -155,4 +185,4 @@ Other
 
 ---
 
-**Keywords:** video wallpaper 2GB RAM • lightweight wallpaper engine • low-spec PC • PC kentang • MPV wallpaper • free wallpaper engine • Windows 7/10/11 wallpaper
+**Keywords:** video wallpaper 2GB RAM • lightweight wallpaper engine • low-spec PC • PC kentang • MPV wallpaper • free wallpaper engine • Windows 7/10/11 wallpaper • Linux live wallpaper • Linux Mint video wallpaper • X11 wallpaper engine • low resource wallpaper • potato PC live wallpaper • YunuWallEngine
