@@ -19,7 +19,16 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 ## 🔥 What's New in Latest Release
 
 ### 🪟 Windows Build
-* ⚙️ **Status:** No new updates *(Stable Initial Release V1.0)*
+
+<img width="496" height="550" alt="gambar" src="https://github.com/user-attachments/assets/f2f32f44-e28d-4b98-ae15-3ed88b9b19c6" />
+
+
+* 🎯 **Smart Aspect Ratio (Bangkit Scale Ported):** The core feature from Linux is now on Windows! Automatically detects video resolution via background FFmpeg, applying perfect scaling/cropping to fit 1:1 or 21:9 videos flawlessly without distortion.
+* ⚡ **Dynamic Turbo Compression:** Goodbye rigid 960x540. Turbo Compression now uses smart proportional scaling (`960:-2`) to shrink file size while perfectly locking the original aspect ratio.
+* 🧠 **Smart CPU Threading:** The engine now reads your PC specs, automatically detecting total CPU cores/threads and reserving **1 exclusive thread** for the OS to prevent freezes during heavy compression.
+* 🖼️ **Asynchronous UI Thumbnail:** Added an instant 320x180 thumbnail preview with black padding to prevent stretched images. Runs asynchronously so the GUI never freezes during loads!
+* 📝 **Automated System Logging:** Introduced `engine_log.txt` for real-time activity tracking, bug detection, and physical verification of video files and Windows Startup Shortcuts.
+* 🛠️ **Crucial Bug Fixes:** Fixed persistent video scaling issues, resolved locked optimize buttons, patched `$CmdLineRaw` parsing for folders with spaces, and stabilized MPV forced shutdowns during resets.
 
 ---
 
