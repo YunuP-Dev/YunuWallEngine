@@ -18,7 +18,7 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 🔥 What's New in Latest Release
 
-### 🪟 Windows Build
+### 🪟 Windows Build *(NEW RELEASE V1.2.0 🎉)*
 
 <img width="496" height="550" alt="gambar" src="https://github.com/user-attachments/assets/f2f32f44-e28d-4b98-ae15-3ed88b9b19c6" />
 
