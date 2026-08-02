@@ -18,10 +18,15 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 
 ## 🔥 What's New in Latest Release
 
-### 🪟 Windows Build *(NEW RELEASE V1.2.0 🎉)*
+### 🪟 Windows Build *(OFFICIAL RELEASE V1.2.1 🎉)*
 
 <img width="496" height="550" alt="gambar" src="https://github.com/user-attachments/assets/f2f32f44-e28d-4b98-ae15-3ed88b9b19c6" />
 
+* 🎯 **Code Refactoring & Core Efficiency:** Stripped down and refactored bloated code into an ultra-lean structure. Drastically reduced unnecessary variables to minimize overhead and maximize execution efficiency.
+* ⚡ **Enhanced Wallpaper Optimization:** Upgraded the wallpaper optimization algorithm for lightning-fast speeds. Re-engineered the process to be as lightweight and efficient as possible on system resources.
+* 🖼️ **Asynchronous UI Thumbnail:** Fixed preview rendering lags by offloading the task entirely to the background. Runs fully asynchronously to guarantee a smooth, freeze-free GUI experience during thumbnail loads.
+
+### 🪟 Windows Build *(NEW RELEASE V1.2.0 🎉)*
 
 * 🎯 **Smart Aspect Ratio (Bangkit Scale Ported):** The core feature from Linux is now on Windows! Automatically detects video resolution via background FFmpeg, applying perfect scaling/cropping to fit 1:1 or 21:9 videos flawlessly without distortion.
 * ⚡ **Dynamic Turbo Compression:** Goodbye rigid 960x540. Turbo Compression now uses smart proportional scaling (`960:-2`) to shrink file size while perfectly locking the original aspect ratio.
