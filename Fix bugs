@@ -1,1 +1,12 @@
 ssserver --server-addr "0.0.0.0:8388" --password "bosyunu" --encrypt-method "aes-256-gcm" -U
+
+
+  -h, --help
+          Print help
+  -V, --version
+          Print version
+~ $ ssserver --server-addr "0.0.0.0:8388" --password "bosyunu" --encrypt-method "aes-256-gcm" -U
+2026-08-09T04:29:08.969668603+07:00  INFO shadowsocks server 1.24.0 build 2026-08-08T19:56:04.508527146+00:00
+2026-08-09T04:29:08.97275945+07:00  INFO shadowsocks tcp server listening on 0.0.0.0:8388, inbound address 0.0.0.0:8388
+2026-08-09T04:29:08.972759142+07:00  INFO shadowsocks udp server listening on 0.0.0.0:8388, inbound address 0.0.0.0:8388
+
