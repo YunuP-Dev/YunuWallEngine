@@ -1,5 +1,5 @@
 ssserver --server-addr "0.0.0.0:8388" --password "bosyunu" --encrypt-method "aes-256-gcm" -U
-
+ssserver --server-addr "0.0.0.0:8388" --password "bosyunu" --encrypt-method "chacha20-ietf-poly1305" -U
 
   -h, --help
           Print help
