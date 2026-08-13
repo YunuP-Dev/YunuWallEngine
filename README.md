@@ -13,6 +13,15 @@ A **ultra-lightweight video wallpaper engine** optimized for low-spec computers 
 - Office computers with strict spec limits
 - Users who want beautiful wallpapers without performance cost
 - Anyone tired of static wallpapers
+---
+
+## 🆕 Check Out Our Latest Project — YunuUSBNet 🔌
+
+Looking for a way to share your PC's internet to your Android phone without root or messy CMD commands? Meet **YunuUSBNet** — our newest ultra-lightweight Windows reverse-tethering GUI, powered by **Gnirehtet + ADB**.
+
+⚡ Live dual-unit speedometer • 🪖 Cable-shake-proof connection • 🪶 Runs on just 3-8MB RAM
+
+### 👉 [Click here to check it out](https://github.com/YunuP-Dev/YunuUSBNet/releases/tag/v1.0.0) 👈
 
 ---
 
